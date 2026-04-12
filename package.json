@@ -1,0 +1,13 @@
+{
+  "name": "git-lab",
+  "version": "1.0.0",
+  "description": "Lab project for GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js",
+    "lint": "echo \"Linting passed (demo)\""
+  },
+  "author": "",
+  "license": "ISC"
+}
